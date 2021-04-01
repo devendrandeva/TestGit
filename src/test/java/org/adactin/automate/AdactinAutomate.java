@@ -31,6 +31,7 @@ public  void test1() {
 	clickButton(l.getClick());
 	moveCursor(l.getPassword());
 	contextClick();
+	System.out.println("devaupdate");
 }
 
 @Ignore
