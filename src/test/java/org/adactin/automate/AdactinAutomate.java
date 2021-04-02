@@ -32,6 +32,7 @@ public  void test1() {
 	moveCursor(l.getPassword());
 	contextClick();
 	System.out.println("devaupdate");
+	System.out.println("deva");
 }
 
 @Ignore
